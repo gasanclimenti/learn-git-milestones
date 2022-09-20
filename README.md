@@ -282,8 +282,8 @@ Item # | Description | Completed
 1a | 1st Favorite emoji | 😜
 1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/gasanclimenti/learn-git-milestones/blob/main/README.md)
 1c | Link to markdown tables docs | [Markdown Tables](https://www.markdownguide.org/extended-syntax/)
-1d | What does `log` do? | "log" when used with Git can show how many commits have been made for a specific repository. 
-2a | 2nd Favorite emoji |
+1d | What does `log` do? | "log" when used with Git can show how many commits have been made for a specific repository.
+2a | 2nd Favorite emoji | 🐢
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
