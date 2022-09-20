@@ -285,9 +285,9 @@ Item # | Description | Completed
 1d | What does `log` do? | "log" when used with Git can show how many commits have been made for a specific repository.
 2a | 2nd Favorite emoji | 🐢
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/819227332124e6cd56dd9a05038ab1b640610daf)
-2c | Full path to your working directory |
-2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji |
+2c | Full path to your working directory | /c/Users/Gaby/Sites/critical_web_design/learn-git-milestones
+2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/omundy/learn-git-milestones/commit/6f9180739b4313fbd0ffeca2cdca0f205614513f)
+2e | 3rd Favorite emoji | 💜
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
