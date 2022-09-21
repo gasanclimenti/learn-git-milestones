@@ -288,9 +288,9 @@ Item # | Description | Completed
 2c | Full path to your working directory | /c/Users/Gaby/Sites/critical_web_design/learn-git-milestones
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/omundy/learn-git-milestones/commit/6f9180739b4313fbd0ffeca2cdca0f205614513f)
 2e | 3rd Favorite emoji | 💜
-2f | Link to `commit #4 from Atom` |
-3a | Link to `my-awesome-project` github.com repo page |
-4a | Link to `my-awesome-project` github.io "project site" |
+2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/omundy/learn-git-milestones/commit/38001a9f70355a01263f0ca84b2c2ab638959bee)
+3a | Link to `my-awesome-project` github.com repo page | [my-awesome-project](https://github.com/gasanclimenti/my-awesome-project/commit/39e0b54fa224b4ca9b72bea4e2964eee3cc83733)
+4a | Link to `my-awesome-project` github.io "project site" | [my-awesome-project site](https://gasanclimenti.github.io/my-awesome-project/)
 
 
 
