@@ -280,7 +280,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 😜
-1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/gasanclimenti/learn-git-milestones/blob/main/README.md)
+1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/omundy/learn-git-milestones/commit/14fb2bf28c3e5bb48d6bd1d917e504813fecf683)
 1c | Link to markdown tables docs | [Markdown Tables](https://www.markdownguide.org/extended-syntax/)
 1d | What does `log` do? | "log" when used with Git can show how many commits have been made for a specific repository.
 2a | 2nd Favorite emoji | 🐢
@@ -289,7 +289,7 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/omundy/learn-git-milestones/commit/6f9180739b4313fbd0ffeca2cdca0f205614513f)
 2e | 3rd Favorite emoji | 💜
 2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/omundy/learn-git-milestones/commit/38001a9f70355a01263f0ca84b2c2ab638959bee)
-3a | Link to `my-awesome-project` github.com repo page | [my-awesome-project](https://github.com/gasanclimenti/my-awesome-project/commit/39e0b54fa224b4ca9b72bea4e2964eee3cc83733)
+3a | Link to `my-awesome-project` github.com repo page | [my-awesome-project](https://github.com/gasanclimenti/my-awesome-project)
 4a | Link to `my-awesome-project` github.io "project site" | [my-awesome-project site](https://gasanclimenti.github.io/my-awesome-project/)
 
 
